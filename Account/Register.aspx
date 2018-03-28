@@ -7,6 +7,8 @@
     <asp:CreateUserWizard ID="RegisterUser" runat="server" EnableViewState="false">
         <LayoutTemplate>
             <asp:PlaceHolder ID="wizardStepPlaceholder" runat="server"></asp:PlaceHolder>
+
+
             <asp:PlaceHolder ID="navigationPlaceholder" runat="server"></asp:PlaceHolder>
         </LayoutTemplate>
         <WizardSteps>
