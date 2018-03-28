@@ -1,4 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <publishData>
-  <publishProfile publishUrl="https://github.com/vijayahlawat001/OnlineExam.git" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="OnlineExam" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Vijay" publishMethod="FileSystem" replaceMatchingFiles="True" userName="vijayahlawat001@gmail.com" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAh59mdIU8JUiWUILOaRmX8QAAAAACAAAAAAAQZgAAAAEAACAAAADzJhD8gxPrkpHPq6Wy2FDFsjIcfiEKt1rgfnavBc6BDQAAAAAOgAAAAAIAACAAAAAulUXPZqDbKkc3lvLsGEboe6gr/USzOHUIVZ7bMMM5DSAAAABaMlOuGa7bP7HxRT9NoE+x1vB3KXmF+YdMEG49chz/FEAAAAATMQehRyGHjGczJ0osVbX1SfpEo4gxOM3UyXVW6793ryFUWs9T8V8gXFcZ7d15WSwCzhelkCou4q3gOb7bqSlE" SelectedForPublish="True" />
+  <publishProfile publishUrl="D:\Publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="OnlineExam" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Vijay" publishMethod="FileSystem" replaceMatchingFiles="False" userName="vijayahlawat001@gmail.com" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAh59mdIU8JUiWUILOaRmX8QAAAAACAAAAAAAQZgAAAAEAACAAAADzJhD8gxPrkpHPq6Wy2FDFsjIcfiEKt1rgfnavBc6BDQAAAAAOgAAAAAIAACAAAAAulUXPZqDbKkc3lvLsGEboe6gr/USzOHUIVZ7bMMM5DSAAAABaMlOuGa7bP7HxRT9NoE+x1vB3KXmF+YdMEG49chz/FEAAAAATMQehRyGHjGczJ0osVbX1SfpEo4gxOM3UyXVW6793ryFUWs9T8V8gXFcZ7d15WSwCzhelkCou4q3gOb7bqSlE" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="03/14/2018 08:45:43" />
+    <file relUrl="Site.Master" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="bin/OnlineExam.pdb" publishTime="03/14/2018 08:11:55" />
+    <file relUrl="UI/Home.aspx" publishTime="03/14/2018 09:04:32" />
+    <file relUrl="Account/Register.aspx" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="bin/OnlineExam.xml" publishTime="03/14/2018 08:45:43" />
+    <file relUrl="Account/Web.config" publishTime="03/14/2018 08:45:43" />
+    <file relUrl="Account/Login.aspx" publishTime="03/14/2018 08:39:39" />
+    <file relUrl="Styles/Site.css" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="Global.asax" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="bin/OnlineExam.dll" publishTime="03/14/2018 08:45:43" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="About.aspx" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="Default.aspx" publishTime="03/14/2018 08:42:13" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="03/14/2018 08:42:13" />
+  </publishProfile>
 </publishData>
